@@ -113,7 +113,29 @@ layout: default
 
 ## 5. Timeline
 
-Give reviewers 24 hours - Quality review takes time. Follow up if blocking other work.
+
+
+Compiled with problems:
+×
+ERROR in ./src/apps/frontend/components/task-form/index.tsx (/Users/himanshisrestha/Downloads/better software/flask-react-assessment-abhisheksainimitawa-main/src/apps/frontend/components/task-form/index.tsx) 87:18-22
+[tsl] ERROR in /Users/himanshisrestha/Downloads/better software/flask-react-assessment-abhisheksainimitawa-main/src/apps/frontend/components/task-form/index.tsx(87,19)
+      TS2322: Type '"submit"' is not assignable to type 'ButtonType | undefined'.
+ERROR in ./src/apps/frontend/components/task-form/index.tsx (/Users/himanshisrestha/Downloads/better software/flask-react-assessment-abhisheksainimitawa-main/src/apps/frontend/components/task-form/index.tsx) 92:14-18
+[tsl] ERROR in /Users/himanshisrestha/Downloads/better software/flask-react-assessment-abhisheksainimitawa-main/src/apps/frontend/components/task-form/index.tsx(92,15)
+      TS2322: Type '"button"' is not assignable to type 'ButtonType | undefined'.
+ERROR in ./src/apps/frontend/components/task-form/index.tsx (/Users/himanshisrestha/Downloads/better software/flask-react-assessment-abhisheksainimitawa-main/src/apps/frontend/components/task-form/index.tsx) 93:14-18
+[tsl] ERROR in /Users/himanshisrestha/Downloads/better software/flask-react-assessment-abhisheksainimitawa-main/src/apps/frontend/components/task-form/index.tsx(93,15)
+      TS2322: Type '"tertiary"' is not assignable to type 'ButtonKind | undefined'.
+ERROR in ./src/apps/frontend/components/task-item/index.tsx (/Users/himanshisrestha/Downloads/better software/flask-react-assessment-abhisheksainimitawa-main/src/apps/frontend/components/task-item/index.tsx) 3:9-15
+[tsl] ERROR in /Users/himanshisrestha/Downloads/better software/flask-react-assessment-abhisheksainimitawa-main/src/apps/frontend/components/task-item/index.tsx(3,10)
+      TS6133: 'Button' is declared but its value is never read.
+ERROR in ./src/apps/frontend/components/task-item/index.tsx (/Users/himanshisrestha/Downloads/better software/flask-react-assessment-abhisheksainimitawa-main/src/apps/frontend/components/task-item/index.tsx) 5:0-51
+[tsl] ERROR in /Users/himanshisrestha/Downloads/better software/flask-react-assessment-abhisheksainimitawa-main/src/apps/frontend/components/task-item/index.tsx(5,1)
+      TS6133: 'ButtonKind' is declared but its value is never read.
+ERROR in ./src/apps/frontend/pages/tasks/index.tsx (/Users/himanshisrestha/Downloads/better software/flask-react-assessment-abhisheksainimitawa-main/src/apps/frontend/pages/tasks/index.tsx) 7:0-51
+[tsl] ERROR in /Users/himanshisrestha/Downloads/better software/flask-react-assessment-abhisheksainimitawa-main/src/apps/frontend/pages/tasks/index.tsx(7,1)
+      TS6133: 'useAuthContext' is declared but its value is never read.
+
 
 ---
 
